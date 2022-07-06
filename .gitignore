@@ -1,0 +1,5 @@
+/.idea
+/.vscode
+*.log
+backup/.DS_Store
+backup/db/.DS_Store
